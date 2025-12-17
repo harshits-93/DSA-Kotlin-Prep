@@ -104,12 +104,14 @@ fun reverseVowels(s: String): String {
     return String(arr)
 }
 
-
-fun swap(arr: CharArray,  start : Int, end:Int){
-    val temp = arr[start]
-    arr[start] = arr[end]
-    arr[end] = temp
-}
+/*
+ * Time Complexity: O(n)
+ * - Each character is visited at most once by the two pointers.
+ *
+ * Space Complexity: O(n)
+ * - CharArray of size n is created since String is immutable.
+ * - Extra space (Set of vowels) is constant: O(1).
+ */
 
 
 fun main(){
