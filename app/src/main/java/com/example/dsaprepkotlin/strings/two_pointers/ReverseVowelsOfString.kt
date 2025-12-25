@@ -1,5 +1,21 @@
 package com.example.dsaprepkotlin.strings.two_pointers
 
+/**
+ * Given a string s, reverse only all the vowels in the string and return it.
+The vowels are 'a', 'e', 'i', 'o', and 'u', and they can appear in both lower and upper cases, more than once.
+
+
+
+Example 1:
+
+Input: s = "IceCreAm"
+
+Output: "AceCreIm"
+
+Explanation:
+
+The vowels in s are ['I', 'e', 'e', 'A']. On reversing the vowels, s becomes "AceCreIm".
+*/
 fun reverseVowels(s: String): String {
 
     /*
@@ -113,6 +129,14 @@ fun reverseVowels(s: String): String {
  * - Extra space (Set of vowels) is constant: O(1).
  */
 
+
+//Note: We can use below function also, this is slightly faster compared with setof.
+fun isVowel(c: Char): Boolean {
+    return when (c) {
+        'a','e','i','o','u','A','E','I','O','U' -> true
+        else -> false
+    }
+}
 
 fun main(){
     val output = reverseVowels("IceCreAm")
