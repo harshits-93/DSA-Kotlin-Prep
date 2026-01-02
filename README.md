@@ -71,16 +71,16 @@ kotlin-dsa-practice/
 
 ### Arrays & Hashing (0/9)
 | # | Problem | Difficulty | Solution | Date Solved |
-|---|---------|-----------|----------|-------------|
-| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | - | - |
-| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | - | - |
-| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | - | - |
-| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | - | - |
-| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | - | - |
-| 6 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | - | - |
-| 7 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | - | - |
-| 8 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | - | - |
-| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | - | - |
+|---|---------|-----------|--------|-------------|
+| 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | com/example/dsaprepkotlin/arrays/basics/ContainsDuplicate.kt | 1-Jan-2026  |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | - | -           |
+| 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | com/example/dsaprepkotlin/arrays/basics/TwoSum.kt | 2-Jan-2026  |
+| 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | - | -           |
+| 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | - | -           |
+| 6 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | - | -           |
+| 7 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | - | -           |
+| 8 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium | - | -           |
+| 9 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | - | -           |
 
 ---
 
