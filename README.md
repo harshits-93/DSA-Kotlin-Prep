@@ -61,7 +61,7 @@ kotlin-dsa-practice/
 
 ## 📊 Progress Tracker
 
-**Overall Progress: 3/150 (0%)**
+**Overall Progress: 4/150 (0%)**
 
 **Last Updated:** January 03, 2026
 
@@ -69,11 +69,11 @@ kotlin-dsa-practice/
 
 ## ✅ Problem Categories
 
-### Arrays & Hashing (2/9)
+### Arrays & Hashing (3/9)
 | # | Problem | Difficulty | Solution | Date Solved |
-|---|---------|-----------|--------|-------------|
+|---|---------|-----------|-------|-------------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | com/example/dsaprepkotlin/arrays/basics/ContainsDuplicate.kt | 1-Jan-2026  |
-| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | - | -           |
+| 2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | com/example/dsaprepkotlin/arrays/basics/ValidAnagram.kt | 3-Jan-2026  |
 | 3 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | com/example/dsaprepkotlin/arrays/basics/TwoSum.kt | 2-Jan-2026  |
 | 4 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | - | -           |
 | 5 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | - | -           |
