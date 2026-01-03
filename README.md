@@ -61,15 +61,15 @@ kotlin-dsa-practice/
 
 ## 📊 Progress Tracker
 
-**Overall Progress: 0/150 (0%)**
+**Overall Progress: 3/150 (0%)**
 
-**Last Updated:** January 01, 2026
+**Last Updated:** January 03, 2026
 
 ---
 
 ## ✅ Problem Categories
 
-### Arrays & Hashing (0/9)
+### Arrays & Hashing (2/9)
 | # | Problem | Difficulty | Solution | Date Solved |
 |---|---------|-----------|--------|-------------|
 | 1 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | com/example/dsaprepkotlin/arrays/basics/ContainsDuplicate.kt | 1-Jan-2026  |
@@ -84,14 +84,14 @@ kotlin-dsa-practice/
 
 ---
 
-### Two Pointers (0/5)
+### Two Pointers (1/5)
 | # | Problem | Difficulty | Solution | Date Solved |
-|---|---------|-----------|----------|-------------|
-| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | - | - |
-| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | - | - |
-| 12 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | - | - |
-| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | - | - |
-| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | - | - |
+|---|---------|-----------|---------|-------------|
+| 10 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | - | -           |
+| 11 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | com/example/dsaprepkotlin/arrays/two_pointers/TwoSumSortedArray.kt | 3-Jan-2026  |
+| 12 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | - | -           |
+| 13 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | - | -           |
+| 14 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | - | -           |
 
 ---
 
